@@ -1,0 +1,601 @@
+customer_id,name,gender,location,income_level,loyalty_status
+C0001,Gina Wilson,Male,Nancyshire,Low,Bronze
+C0002,Jeremy Bennett,Female,Carrillomouth,Low,Silver
+C0003,Judy Murray,Male,South Darrenland,Low,Bronze
+C0004,Richard Robinson,Female,Port Leslie,High,Gold
+C0005,Kelli Smith,Female,Johnland,Medium,Gold
+C0006,Paul Peterson,Female,South Lee,High,Platinum
+C0007,Kenneth White,Female,South Jillian,Medium,Platinum
+C0008,David Baker,Male,East Mary,Medium,Gold
+C0009,Heather Maxwell,Female,North Emmafort,High,Platinum
+C0010,Pamela Weaver,Male,Port Timothymouth,Medium,Bronze
+C0011,William Prince PhD,Male,Whitehaven,Medium,Silver
+C0012,Daniel Ray,Male,New Laurenfort,Medium,Platinum
+C0013,Amanda Reed,Male,South Tiffany,Low,Platinum
+C0014,Julia Norris,Female,Lake Jasonshire,Low,Bronze
+C0015,Isaiah Hensley,Male,New Jose,Medium,Bronze
+C0016,Tyler Cooper,Female,South Rodney,High,Platinum
+C0017,Paul Diaz,Male,Ramirezburgh,Medium,Gold
+C0018,Veronica Parks,Female,Lake Josephbury,Medium,Platinum
+C0019,Selena Gonzalez,Female,South Linda,Medium,Silver
+C0020,Jonathan Cowan,Male,Kristenport,High,Gold
+C0021,Scott Williams,Male,Lake Frankborough,Medium,Platinum
+C0022,Karen Soto,Female,Garnerview,Medium,Bronze
+C0023,Justin Frederick,Male,Mauricechester,Medium,Silver
+C0024,Sean Mccarty,Female,New Barbara,High,Silver
+C0025,Carrie Deleon,Female,Markhaven,High,Silver
+C0026,Dr. Steve James,Female,Stevenberg,Medium,Gold
+C0027,Margaret Mcfarland,Male,Welchshire,Medium,Bronze
+C0028,Terry Miller,Female,Jeremymouth,Low,Silver
+C0029,Michelle Jacobs,Female,Nelsonmouth,High,Bronze
+C0030,Teresa Adkins,Male,Gutierrezburgh,Medium,Gold
+C0031,Beth Young,Male,Shelbyland,Medium,Gold
+C0032,James Davis,Male,Kelleytown,Low,Gold
+C0033,Kelly Ferrell,Male,West Christineland,Medium,Gold
+C0034,Stacey Parker,Male,Lake Justin,Low,Gold
+C0035,Bonnie Roberson,Male,North Elizabethmouth,High,Silver
+C0036,Julie Pitts,Female,Amyberg,High,Bronze
+C0037,Melissa Thompson,Female,Welchshire,Low,Bronze
+C0038,Mark Ferguson,Female,Timothybury,Medium,Silver
+C0039,Jessica Diaz,Female,Erictown,Medium,Platinum
+C0040,Robert Charles,Male,Justinside,Medium,Gold
+C0041,Thomas Arroyo,Female,Evanschester,Low,Platinum
+C0042,Linda Robles,Female,Jacobside,High,Silver
+C0043,David Espinoza,Male,Claytonbury,Medium,Silver
+C0044,Jay Allen,Female,Justinside,High,Silver
+C0045,Jennifer Castaneda,Female,East Keith,Medium,Bronze
+C0046,Lisa Nelson,Female,Lopeztown,High,Platinum
+C0047,Wayne Johnson,Male,West Josephmouth,Medium,Platinum
+C0048,Crystal Hernandez,Male,Robinsonchester,Low,Platinum
+C0049,Robert Bolton,Female,Terryton,High,Gold
+C0050,Ryan Lynn,Female,West Kimberlyland,Medium,Platinum
+C0051,Catherine Huang,Female,Lisatown,Medium,Platinum
+C0052,Randy Wright,Female,Wrightton,Low,Bronze
+C0053,Nicolas Davis,Female,South Paul,Low,Silver
+C0054,Taylor Moore,Female,Lake Sharonhaven,Low,Gold
+C0055,John Evans,Male,Paigeborough,High,Gold
+C0056,Cynthia Hamilton,Male,East Laurashire,Medium,Silver
+C0057,Richard Smith,Female,New Kristenfort,High,Bronze
+C0058,Brittney Townsend,Female,East Vincent,High,Platinum
+C0059,Gina Booker,Male,North Michaelberg,Low,Bronze
+C0060,Rebecca Martinez,Female,West Tina,High,Bronze
+C0061,Nicole Trujillo,Female,Quinntown,High,Bronze
+C0062,Heather Taylor,Female,South Jasmineside,High,Platinum
+C0063,Michael Lopez,Female,New Michael,Low,Bronze
+C0064,Denise Guerra,Male,North Amanda,High,Silver
+C0065,Robert Weaver,Male,Smithhaven,High,Platinum
+C0066,Cody Smith,Male,Kimberlybury,Low,Silver
+C0067,Arthur Coffey,Female,Leefort,High,Gold
+C0068,Brittany Campbell,Male,Davidsonville,Medium,Silver
+C0069,Matthew Williams,Male,East Morgan,Low,Bronze
+C0070,John Garcia,Male,Barretthaven,High,Bronze
+C0071,Leslie Williams,Male,New Jennifer,Low,Silver
+C0072,Thomas Rios,Male,South Laurieton,Medium,Bronze
+C0073,Patrick Zamora,Female,Lauraton,Medium,Bronze
+C0074,Deborah Williams,Male,Port Kevinborough,Medium,Platinum
+C0075,Anne Hardy,Female,Lopezhaven,Low,Silver
+C0076,Laura Meza,Female,Reeseshire,High,Platinum
+C0077,Jimmy Ortega,Male,East Lauraside,Medium,Silver
+C0078,George Moore,Male,Mahoneymouth,Low,Silver
+C0079,Yesenia Kirk,Male,Duranchester,Low,Silver
+C0080,Erica Allen,Female,South Katie,Medium,Gold
+C0081,Dawn Nixon,Female,Moyertown,High,Bronze
+C0082,Victoria Larson,Female,West Adam,Medium,Gold
+C0083,Mrs. Emily Ingram,Female,Samanthahaven,Medium,Bronze
+C0084,Tammy Moore,Female,South Michaelberg,Medium,Platinum
+C0085,Steve Wright,Male,Lisaland,Low,Gold
+C0086,Laura Robinson,Female,Lake Markfort,Low,Platinum
+C0087,Roger Norris,Male,New Dawnton,High,Gold
+C0088,Laura Miller,Male,Port Matthewchester,High,Platinum
+C0089,Sean Kane,Male,Lake Denise,Medium,Silver
+C0090,Alexandra Waters,Female,Brownhaven,High,Platinum
+C0091,Joshua Hernandez,Female,East Brent,Low,Silver
+C0092,Jenna Griffin,Female,East Ryanfurt,High,Silver
+C0093,George Alvarez,Female,New Raymondland,High,Platinum
+C0094,Jeffrey Wolfe,Male,South Anita,Low,Silver
+C0095,Matthew Gonzalez DDS,Female,East Charles,High,Gold
+C0096,Erica Glass,Female,North Emilychester,High,Silver
+C0097,Connor Cooper,Female,Port Kevinstad,High,Gold
+C0098,Wanda Ramos,Female,South Brady,Low,Platinum
+C0099,Christina Brooks,Female,North Jodibury,Medium,Silver
+C0100,Tammy Melton,Female,Alexanderville,Low,Gold
+C0101,John Rivera,Female,East Amy,High,Platinum
+C0102,Kimberly Dean,Male,Lake Holly,Low,Bronze
+C0103,Kevin Alvarado,Male,West Georgeport,Low,Bronze
+C0104,Michael Nelson,Male,Penatown,Medium,Platinum
+C0105,Matthew Alvarado,Female,Michelletown,Low,Silver
+C0106,Stephen Hughes,Male,Romeroville,Low,Platinum
+C0107,Kari Harper,Female,East Jamesmouth,Low,Bronze
+C0108,Michelle Williams,Female,Matthewfurt,Low,Bronze
+C0109,Alicia Sutton,Male,Colleenbury,Medium,Gold
+C0110,Veronica Hill MD,Male,Natashatown,Low,Gold
+C0111,Tiffany Perez,Male,Pennyberg,High,Platinum
+C0112,James Yu,Female,South John,Low,Silver
+C0113,Wesley Browning,Male,Shaneberg,Medium,Platinum
+C0114,Charles Weaver,Female,Port Devin,High,Gold
+C0115,Stephanie Browning,Male,Forbesberg,Low,Silver
+C0116,Krystal Moore,Female,New Amandaville,High,Silver
+C0117,Ryan Thomas,Male,Port Lucaschester,High,Bronze
+C0118,Elizabeth Reese,Male,Edwinborough,Low,Bronze
+C0119,Cody Farmer,Male,Catherinebury,Low,Gold
+C0120,Crystal Johnson,Female,Lake Kimberlyberg,High,Bronze
+C0121,Lisa Joseph,Female,Jackfurt,Low,Platinum
+C0122,Chad Lee Jr.,Male,West Stephaniebury,Low,Platinum
+C0123,Virginia Todd,Female,East Saramouth,Medium,Silver
+C0124,Katherine Nguyen,Male,Claychester,Medium,Platinum
+C0125,Andrew Moss,Female,Cortezfurt,Low,Bronze
+C0126,Natalie Wheeler,Male,New Danielmouth,High,Gold
+C0127,Amanda Forbes,Male,Terrellton,Low,Platinum
+C0128,Kelli Mccoy,Male,East Kellyfurt,Low,Gold
+C0129,Patricia Mitchell,Male,South Kelly,Low,Gold
+C0130,Melissa Mckee,Female,Gallegosmouth,Medium,Gold
+C0131,Jonathan White,Male,South Robert,Low,Gold
+C0132,Christopher Garza,Male,South Christopher,High,Silver
+C0133,Matthew Dawson,Female,Lake Jessica,Medium,Bronze
+C0134,Michael Walters,Male,New Jasminehaven,High,Platinum
+C0135,Caitlin Pierce,Female,Port Georgemouth,High,Bronze
+C0136,Mary Hernandez,Male,East Kayla,Medium,Platinum
+C0137,Eric Cross,Female,Robertsburgh,Low,Gold
+C0138,Carlos Harris,Male,Alexanderfort,Low,Silver
+C0139,Kimberly Smith,Female,Youngshire,High,Bronze
+C0140,Jordan Ramos,Male,East Nicoleview,Medium,Bronze
+C0141,Kristin Bryan,Male,East Eddiestad,Medium,Bronze
+C0142,Scott Estrada,Female,Markland,High,Bronze
+C0143,Jason Thompson,Female,Cherylshire,Low,Gold
+C0144,Cassandra Gibson,Male,Sarahland,Low,Bronze
+C0145,Erica Merritt,Female,Port Ronaldside,High,Silver
+C0146,John Martinez,Female,Markchester,Medium,Platinum
+C0147,Melissa Salazar,Female,New Jessicahaven,Low,Bronze
+C0148,Mrs. Melissa Peck,Male,Ronaldmouth,Low,Silver
+C0149,Kenneth Hanson,Female,New Anna,High,Bronze
+C0150,Lynn Vasquez,Female,New Jesse,Low,Platinum
+C0151,Cory Wilson,Female,Garrettville,High,Silver
+C0152,Christine Gilbert,Female,Gutierrezmouth,High,Platinum
+C0153,Robert Lewis,Male,Lake Juan,Low,Platinum
+C0154,Elizabeth Hunter,Male,Katieville,High,Gold
+C0155,Gloria Ramsey,Female,Port Gregorymouth,Low,Gold
+C0156,Tammy Mendoza,Female,Roblesberg,Low,Silver
+C0157,Mr. Steven Herrera,Male,Stevenchester,Low,Bronze
+C0158,Amy Meyer,Male,Angelatown,Medium,Bronze
+C0159,Michael Marsh,Male,Carlberg,High,Silver
+C0160,Andre Terrell,Male,New Catherine,Low,Bronze
+C0161,Bruce Patton,Male,Janetmouth,Medium,Silver
+C0162,Denise Miller,Female,West Shannon,Low,Gold
+C0163,Cindy Turner,Female,West Kristenborough,High,Silver
+C0164,Jill Johnson,Female,Steinberg,Low,Platinum
+C0165,Thomas Oconnor,Female,Kimberlyberg,High,Bronze
+C0166,Annette Hendrix,Male,East Jenny,Low,Gold
+C0167,Miguel Boyd,Male,West Sarahland,Medium,Gold
+C0168,Stephen Garcia,Male,Andrewport,Medium,Gold
+C0169,Christine Gonzalez,Female,Joshuamouth,High,Gold
+C0170,Megan Nelson,Male,West Danny,High,Gold
+C0171,Kristin Garcia,Female,Andreaview,High,Bronze
+C0172,Michael Campbell,Male,East Charles,Medium,Platinum
+C0173,Gina Wallace,Female,North Thomas,Medium,Bronze
+C0174,Ashley Brown,Male,Myersshire,Low,Silver
+C0175,Melissa Griffin,Female,Larryborough,High,Silver
+C0176,Megan Ferguson,Male,Bradleyland,Medium,Silver
+C0177,Tamara Mcdonald,Male,Collinsmouth,Low,Platinum
+C0178,Travis Thomas,Female,Robertafurt,Low,Bronze
+C0179,Thomas Rivera,Female,Shawntown,Low,Gold
+C0180,Brian Mendoza,Female,West Katrina,High,Platinum
+C0181,Bethany Garcia,Female,West Angelaland,Low,Bronze
+C0182,Kim Morales,Female,Allenbury,High,Platinum
+C0183,Valerie Reyes,Female,Jaredshire,Low,Platinum
+C0184,William Bradley,Female,Amybury,Medium,Bronze
+C0185,Michael Stevenson,Male,Wilsonmouth,Low,Platinum
+C0186,Brent Wallace,Male,Stephanieland,High,Platinum
+C0187,Melissa Carlson,Male,Murphyton,High,Gold
+C0188,Robert Clay,Male,Port Dwayneberg,High,Gold
+C0189,Eddie Gilbert,Male,Gonzalezmouth,High,Gold
+C0190,Robert Frazier,Female,Robbinsstad,High,Silver
+C0191,Lauren Carr DDS,Male,Port Kelly,Medium,Platinum
+C0192,Joshua Brown,Female,Danielport,High,Bronze
+C0193,Cynthia Park,Male,Garrettfurt,High,Platinum
+C0194,Jeffrey Clark,Female,South Don,High,Platinum
+C0195,Sarah Ward,Female,Mooreberg,High,Gold
+C0196,Benjamin Smith,Male,Barrettberg,Medium,Platinum
+C0197,Martin Perry,Male,Englishchester,Low,Bronze
+C0198,Jordan Coleman,Female,Cruzbury,High,Gold
+C0199,Larry Lane,Male,Lake Walter,Low,Gold
+C0200,Joshua Richardson,Female,New Timothystad,High,Platinum
+C0201,John Vaughn,Male,Lake Jessica,High,Gold
+C0202,Dr. Peggy Marshall,Female,New Pamelaland,Medium,Gold
+C0203,Mark Alvarado,Male,Lake Cynthiashire,Low,Gold
+C0204,Anthony Cooper,Female,South Shawnfort,Medium,Silver
+C0205,Erin Gomez,Female,Keithton,Medium,Bronze
+C0206,Linda Torres,Female,Bryanfort,Low,Platinum
+C0207,Laura Douglas,Male,Lisatown,Medium,Platinum
+C0208,Bradley Wagner,Male,Johnathanview,Medium,Bronze
+C0209,David Figueroa,Male,New Joanne,Medium,Gold
+C0210,Jacqueline Thompson,Male,South Henry,Medium,Silver
+C0211,Amanda Riggs,Female,New Sarah,Medium,Gold
+C0212,Jon Chaney,Female,Youngmouth,Low,Silver
+C0213,Carol Lane,Male,Brianview,Low,Bronze
+C0214,Audrey Jackson,Male,Alvarezfort,Low,Bronze
+C0215,Nicole Patel,Male,Vegafurt,High,Platinum
+C0216,Charles Berg,Female,West Saramouth,Low,Silver
+C0217,Ethan Moreno,Male,North Samanthastad,High,Gold
+C0218,Jessica Hull,Female,Matthewview,Low,Gold
+C0219,Dawn Silva,Male,Mejiabury,High,Silver
+C0220,Leah Lee,Female,Ericaburgh,Low,Bronze
+C0221,Adam Smith,Female,North Roberthaven,Low,Bronze
+C0222,Jeremy Robinson,Male,Johnathanton,Low,Gold
+C0223,Brandon Mays,Female,New Danielle,High,Platinum
+C0224,Barbara Gates,Male,South Diana,High,Platinum
+C0225,Kylie Coffey,Female,Lake Jackport,Low,Bronze
+C0226,Timothy Fowler,Female,Kaylamouth,High,Gold
+C0227,Richard Ramirez,Female,South Paulton,Medium,Gold
+C0228,Robert Thompson,Female,South Tiffanyborough,Medium,Bronze
+C0229,Cassandra Vasquez,Male,New Kayla,Medium,Bronze
+C0230,Mason Gaines,Female,Dakotaland,Low,Bronze
+C0231,Nicholas Waters,Male,South Eduardotown,High,Silver
+C0232,Mary Adams,Female,Rebeccashire,High,Gold
+C0233,Michael Wise,Male,Grahamland,Medium,Bronze
+C0234,April Finley,Male,Martinezside,Medium,Bronze
+C0235,Heather Maldonado,Male,Brownland,Low,Platinum
+C0236,Samuel Peterson,Male,Hodgesport,High,Bronze
+C0237,Cassandra Williams,Female,Guerreroport,High,Platinum
+C0238,Stephanie Mccoy,Female,Tommouth,Medium,Silver
+C0239,Brenda Lee,Female,South Paul,Low,Gold
+C0240,Maria Porter,Male,Levytown,Medium,Silver
+C0241,Anthony French,Female,South Davidhaven,Medium,Bronze
+C0242,Michael Sawyer,Male,Lake Beth,Medium,Platinum
+C0243,Amanda Thomas,Female,South Rebeccaton,Low,Gold
+C0244,Matthew Smith,Male,West Loriville,Medium,Platinum
+C0245,Christopher Garza,Male,North Tylerbury,Medium,Platinum
+C0246,Dale Rogers,Male,Nguyenshire,High,Silver
+C0247,Erica Oconnell,Male,Port Brandon,Medium,Silver
+C0248,Arthur Hill,Female,Jacksonstad,Medium,Gold
+C0249,Jessica Frost,Female,East Craigfurt,Low,Bronze
+C0250,Alexis Tucker,Female,North Harryland,Medium,Silver
+C0251,Linda Campbell,Female,Schwartzborough,High,Silver
+C0252,Devin Cole,Male,East Cheryl,Medium,Bronze
+C0253,Christopher Porter,Male,Lake Margaretport,Low,Platinum
+C0254,Aaron Young,Female,New Tiffanystad,High,Platinum
+C0255,Victoria Romero,Male,Townsendborough,Low,Bronze
+C0256,Cory Hogan,Female,Jimenezburgh,Low,Silver
+C0257,Amanda Newman,Male,Jasonview,Low,Platinum
+C0258,Robert Chang,Female,North Joyside,Medium,Silver
+C0259,Richard Washington,Female,North Pattymouth,High,Silver
+C0260,Erika Gonzalez,Female,Jerryville,Low,Gold
+C0261,Brent Rojas,Female,South Patricia,High,Bronze
+C0262,Kevin Brown,Male,Thomasmouth,Low,Gold
+C0263,James Ellis,Female,Lake Michael,Medium,Platinum
+C0264,George Johnson,Female,West Derekmouth,Medium,Platinum
+C0265,Christopher Cooper,Male,Cassandraburgh,High,Silver
+C0266,Kristen Hall,Male,Vincentfort,Low,Bronze
+C0267,Cindy Wells,Female,Ramirezchester,High,Platinum
+C0268,Danielle Murphy,Female,New Sophia,Medium,Platinum
+C0269,Stephanie Butler,Male,North Vickiehaven,High,Gold
+C0270,Joseph Mendoza,Male,South Tylerland,Low,Gold
+C0271,Alexandria Dennis,Female,East Michael,Medium,Bronze
+C0272,Zachary Smith,Female,Evanmouth,Medium,Gold
+C0273,Nicole Johnson,Female,Fordberg,Medium,Silver
+C0274,Jennifer Clarke,Male,Courtneytown,Low,Silver
+C0275,Andrea Barry,Female,Alyssaport,High,Gold
+C0276,Derrick Shah,Female,Port Gail,Low,Gold
+C0277,Gabriela Randolph,Female,Pamelaville,Low,Bronze
+C0278,John Williams,Female,Gregoryside,Medium,Platinum
+C0279,Kristina Ayala,Female,West John,Low,Silver
+C0280,John Crosby,Female,Port Julie,Medium,Bronze
+C0281,Harold Adams,Male,Ramirezland,High,Gold
+C0282,Jesse Mason,Male,South Jenniferside,Low,Silver
+C0283,Jodi Richardson,Male,East Patriciamouth,Low,Bronze
+C0284,James White,Male,North Fredville,Low,Platinum
+C0285,Kathleen Golden,Male,West Robertside,Medium,Silver
+C0286,Kara Fisher,Female,West Jaimetown,High,Platinum
+C0287,Crystal Meza,Female,Robertmouth,High,Silver
+C0288,Rachel Tucker,Female,Ellisshire,Medium,Bronze
+C0289,Richard Jackson,Male,Jeremystad,Medium,Platinum
+C0290,Patricia Williams,Female,Justinburgh,Medium,Bronze
+C0291,Caitlyn Nichols,Male,East Mary,Medium,Bronze
+C0292,Mary Hernandez,Female,North Blake,Low,Silver
+C0293,Cameron Green,Male,East Anna,Medium,Silver
+C0294,Evan Cooper,Female,Shaneburgh,Medium,Platinum
+C0295,Barbara Johnson,Male,Mackmouth,High,Gold
+C0296,Brittney Cordova,Male,Deborahport,Medium,Bronze
+C0297,Dylan Raymond,Female,Port Annette,Low,Bronze
+C0298,Jessica Norris,Male,Mcculloughberg,Low,Silver
+C0299,Audrey Johnson,Female,South Michael,Low,Silver
+C0300,Lee Lee,Female,Port Shari,Medium,Silver
+C0301,Alexander Ryan,Female,Rhodesland,Low,Platinum
+C0302,Jennifer Henry,Female,Lake Michaelberg,Low,Silver
+C0303,Jessica Hughes,Male,West Michaelport,High,Silver
+C0304,Shelly Miller,Male,Figueroachester,Medium,Bronze
+C0305,Donna Shaffer,Female,Chandlerchester,High,Silver
+C0306,Kevin Miller,Male,West Thomas,Low,Platinum
+C0307,Victoria Jones,Female,Davischester,High,Platinum
+C0308,Denise Thompson,Male,Pageberg,High,Gold
+C0309,Ronnie Roberts,Female,Williamsport,High,Silver
+C0310,Elizabeth Hansen,Female,Walkertown,Low,Gold
+C0311,Eric Davidson,Female,Martinezport,Medium,Platinum
+C0312,John Watts,Female,North David,High,Platinum
+C0313,Zachary Jones,Female,Biancashire,Low,Silver
+C0314,David Jennings,Male,West Williamshire,Medium,Platinum
+C0315,David Perkins,Female,West Steven,Medium,Silver
+C0316,Heather Brown,Female,Robertstad,Low,Silver
+C0317,Eddie Fowler,Female,New Jamesburgh,Medium,Bronze
+C0318,Linda Jackson,Female,Moniqueport,High,Platinum
+C0319,Michael Cox,Male,Madelinetown,Medium,Platinum
+C0320,Douglas Maxwell,Female,Petersonburgh,High,Silver
+C0321,Christopher Walker,Male,Port Penny,Medium,Gold
+C0322,Sandra Fox,Male,South Stevenland,Medium,Bronze
+C0323,Carlos Smith,Female,Larrystad,Medium,Gold
+C0324,Jeremy Huerta,Female,Geraldport,Medium,Platinum
+C0325,Robert Walker,Female,Lake Jeremy,Medium,Gold
+C0326,Carlos Miller,Male,North Andrewfort,Medium,Platinum
+C0327,Amanda Rodriguez,Male,South Davidview,Medium,Bronze
+C0328,Eric Smith,Female,Port Davidborough,Medium,Platinum
+C0329,Christina Lambert,Male,North Dustinview,High,Silver
+C0330,Hannah Martin,Male,New Ashley,High,Bronze
+C0331,Kenneth Smith,Female,Lake James,Low,Bronze
+C0332,Steven Medina,Male,East Samanthafort,Medium,Bronze
+C0333,Kevin Gonzales,Female,East Maryfurt,Medium,Bronze
+C0334,Jose Russell,Male,Davidville,High,Silver
+C0335,Kathleen Ward,Female,Angelaton,High,Silver
+C0336,Johnny Cruz,Male,Burkeport,High,Platinum
+C0337,Sarah Perez,Male,Robertschester,Medium,Silver
+C0338,Benjamin Randall,Female,Crosbystad,Medium,Platinum
+C0339,Zachary Vasquez,Male,South Samuelland,High,Silver
+C0340,James Neal,Male,Lake Saraburgh,Low,Bronze
+C0341,William Morgan,Male,Martinezchester,High,Platinum
+C0342,Diana Reeves,Female,Katelynfurt,Low,Silver
+C0343,Melvin Clements,Female,Dixonberg,Medium,Bronze
+C0344,Ashley King,Male,Hallberg,High,Silver
+C0345,Oscar Greer,Male,Gregoryburgh,Medium,Bronze
+C0346,Michael Hernandez,Female,Port Charleshaven,High,Platinum
+C0347,Rebecca Harris,Male,Henryview,High,Gold
+C0348,Rhonda Fernandez,Male,Port Anthonychester,Low,Bronze
+C0349,Barbara Cole,Female,Ramoston,Low,Bronze
+C0350,Justin Dalton,Male,Nicoleburgh,Low,Platinum
+C0351,Chad Baldwin MD,Male,New Emilyside,High,Gold
+C0352,Laura Alvarez,Female,New Brian,Medium,Bronze
+C0353,Kevin Gray,Female,Katieport,Medium,Platinum
+C0354,Alfred Williams,Male,Michaelshire,Low,Gold
+C0355,Steven Peterson,Female,South Michaelstad,Medium,Gold
+C0356,Anthony Sanchez,Female,Lake Larry,Low,Silver
+C0357,Michael Melton,Female,West Geoffreyside,High,Gold
+C0358,Joel Boyer,Female,Adamsfort,Medium,Silver
+C0359,Victoria Gray,Female,Morrisville,Low,Platinum
+C0360,Ariel Leonard,Female,Tylermouth,Medium,Bronze
+C0361,Elijah Montes,Female,South Cynthia,Low,Bronze
+C0362,Angela Jefferson,Female,West Joseph,Low,Platinum
+C0363,Kenneth Ballard,Female,Lake Meganville,Medium,Bronze
+C0364,Denise Knight,Female,Simmonsstad,Medium,Silver
+C0365,Marisa Turner,Male,Ryanside,Low,Silver
+C0366,Jason King,Male,Powersside,Medium,Silver
+C0367,Albert Warner,Male,New Victor,Low,Platinum
+C0368,Samantha Hurley,Female,Sharonside,High,Silver
+C0369,Sarah Meadows,Male,New Jamesmouth,Medium,Gold
+C0370,Chris Jennings,Female,Meganchester,Medium,Gold
+C0371,Ronald Brown,Male,Port Robert,Low,Gold
+C0372,Maria Scott,Female,South John,Low,Gold
+C0373,Alexis Robles,Male,Stevenside,High,Platinum
+C0374,Jennifer Bullock MD,Female,Derekview,Medium,Silver
+C0375,Diana Pierce,Female,Lake Toddtown,Medium,Platinum
+C0376,Steven Edwards,Male,Michellechester,Low,Platinum
+C0377,Megan Blackwell,Male,Hahnberg,Medium,Silver
+C0378,Kenneth Mason,Male,New Elizabethshire,Low,Bronze
+C0379,Tara King,Male,East Carolmouth,Low,Platinum
+C0380,Kevin Price,Male,South Jeffery,Low,Platinum
+C0381,Daniel Hill,Female,Kingshire,Low,Platinum
+C0382,Joseph Lyons,Male,West Amyfort,High,Platinum
+C0383,Tracey Suarez,Female,West Thomas,Low,Gold
+C0384,Eric Brewer,Male,Port Joditon,Medium,Gold
+C0385,Rachel Allen,Female,Parkerstad,High,Gold
+C0386,Melinda Nichols,Female,Port Scott,High,Silver
+C0387,Tyler Pennington,Male,Kevinbury,Medium,Silver
+C0388,Scott Martin,Female,Welchchester,High,Gold
+C0389,Denise Miller,Female,Ruizchester,Medium,Silver
+C0390,Faith Henderson,Female,Port Ethanview,High,Silver
+C0391,Heather Guzman,Male,Shawntown,High,Platinum
+C0392,Margaret White,Male,Gibbsberg,Medium,Platinum
+C0393,Curtis Torres,Male,North Erichaven,Low,Platinum
+C0394,Patricia Banks,Male,Port Brooke,Low,Gold
+C0395,Todd Hayes,Male,West Glenn,Low,Bronze
+C0396,Erin Campbell,Female,South Michaelfurt,Medium,Bronze
+C0397,Theresa Wilkerson,Male,North Stacy,High,Platinum
+C0398,Maria Sims,Male,South Jamesburgh,Low,Gold
+C0399,Luke Burke,Male,North Susan,Medium,Bronze
+C0400,Keith Smith,Male,Ayalamouth,Medium,Gold
+C0401,Kathleen Walker,Female,East Sophia,High,Gold
+C0402,Deborah Francis,Female,Andersonborough,High,Platinum
+C0403,Whitney Campbell,Female,South Henry,High,Silver
+C0404,Alyssa Cherry,Male,New Shannon,High,Silver
+C0405,Kevin Holland,Male,North Taylormouth,High,Silver
+C0406,Jennifer Lewis,Female,Ericksonview,Low,Gold
+C0407,Justin Williams,Male,South Rebekah,Low,Platinum
+C0408,Teresa Coffey DDS,Female,North Jonfurt,High,Gold
+C0409,James Wood,Female,New Harryburgh,Low,Silver
+C0410,Tara Humphrey,Male,North Logan,Low,Silver
+C0411,Brenda Wilson,Male,East Victorview,High,Silver
+C0412,Tammy Campbell,Male,Chloeview,Low,Platinum
+C0413,Jessica Martin,Male,Gallagherberg,Medium,Bronze
+C0414,Tammy Fields,Male,Brownberg,Low,Platinum
+C0415,Clifford Harrison,Female,Lake Tanner,High,Platinum
+C0416,Steven Simpson,Female,Kellyside,Medium,Bronze
+C0417,Mr. Ryan Camacho,Male,West Claytonport,High,Platinum
+C0418,Christopher Hicks,Female,Annashire,Medium,Platinum
+C0419,Zachary Smith,Female,South Samantha,Medium,Gold
+C0420,Jonathan Davis,Male,Anthonyville,High,Silver
+C0421,Kevin Bean,Male,Ericland,High,Gold
+C0422,Michael Castillo,Male,Brooketown,Medium,Platinum
+C0423,Andrew Dean,Female,Nguyenshire,High,Gold
+C0424,Scott Solis,Male,Marcuston,High,Platinum
+C0425,Kimberly Guzman,Female,South Jonathanbury,Low,Bronze
+C0426,Sharon Davis,Female,East Paul,Medium,Gold
+C0427,Matthew Best,Female,North Kenneth,Low,Silver
+C0428,Nancy Dorsey,Female,West Elizabeth,Medium,Silver
+C0429,Kayla Burns,Male,Alvarezshire,Low,Platinum
+C0430,Ann Henderson,Female,Christinachester,High,Silver
+C0431,Anna Palmer,Male,Rhodesberg,High,Gold
+C0432,Kelsey Holland,Female,West Taylorland,Low,Gold
+C0433,Karen Hernandez,Female,Lake Rebecca,High,Bronze
+C0434,Kelly Phillips,Female,New Charleston,Low,Gold
+C0435,Kayla Gutierrez,Female,Guerreroshire,Medium,Bronze
+C0436,Heather Richards,Female,North Joymouth,Medium,Bronze
+C0437,Clarence Long,Male,South Nancyport,High,Platinum
+C0438,Nathaniel Todd,Female,Hansonview,Medium,Silver
+C0439,Thomas Patrick,Female,East Christian,High,Bronze
+C0440,Mrs. Megan Hamilton,Male,North Randalltown,Medium,Bronze
+C0441,John Holt,Male,Turnerstad,High,Silver
+C0442,Tracey Leonard,Male,Christopherberg,Low,Platinum
+C0443,Brian Smith,Male,Port Anthony,Low,Platinum
+C0444,Mr. David Wilkinson,Male,North Kevin,Medium,Bronze
+C0445,John Johnson,Female,East Joanne,Low,Bronze
+C0446,John Smith,Female,Richardsborough,High,Gold
+C0447,Ronald Myers,Male,Alanchester,High,Gold
+C0448,Sarah Mclaughlin,Male,Benjaminfurt,High,Platinum
+C0449,Mr. Logan Gregory,Female,Hallton,High,Bronze
+C0450,Jennifer Stewart,Male,West Patriciachester,Low,Silver
+C0451,Audrey Dean,Female,Shanechester,Low,Silver
+C0452,Dwayne Lee,Female,Samuelhaven,Low,Gold
+C0453,Terry Morgan,Male,Andersonport,High,Platinum
+C0454,Jeanette Butler,Male,Lauraburgh,High,Bronze
+C0455,Diane Curry,Female,Andersonborough,Medium,Gold
+C0456,Johnathan Leon,Male,Torresborough,Medium,Platinum
+C0457,Yvonne Howard,Male,Michaelburgh,High,Platinum
+C0458,Scott Gordon,Male,West Ryanbury,Low,Bronze
+C0459,Danny Scott,Male,Kristenton,High,Bronze
+C0460,Kristin Kemp,Male,Lake Brentmouth,Medium,Bronze
+C0461,Tonya Campos,Male,Port Cherylville,Low,Silver
+C0462,Amanda Garcia,Female,Port Jamiestad,Medium,Bronze
+C0463,Edgar Alexander,Male,Oconnorville,Medium,Silver
+C0464,Jack Fuentes,Male,Port Jameschester,Medium,Bronze
+C0465,Adriana Davenport,Female,Petersonhaven,High,Gold
+C0466,Derek Espinoza,Male,Wardbury,Medium,Silver
+C0467,Paul Fisher,Female,East Laurie,Medium,Silver
+C0468,Jason Ellis,Male,Sherrymouth,Medium,Silver
+C0469,Adam Drake,Male,North Matthewfurt,Medium,Gold
+C0470,Mrs. Amy Malone,Female,New Brian,Medium,Bronze
+C0471,Michelle Guerrero,Female,Robertside,Medium,Gold
+C0472,Mikayla Edwards,Female,Alanview,High,Platinum
+C0473,Lisa Thomas,Male,Griffinborough,Low,Platinum
+C0474,Lori Montgomery,Male,Terryfurt,High,Silver
+C0475,Shirley Miller,Female,Peterberg,Medium,Gold
+C0476,Kimberly Lewis,Male,Adrienneburgh,Medium,Gold
+C0477,Steve Fernandez,Male,Johnport,High,Silver
+C0478,Victoria Rodriguez,Female,Port Nathanhaven,Low,Platinum
+C0479,Anthony Curtis,Female,South Kennethtown,Low,Bronze
+C0480,William Trujillo,Male,West Kevin,Medium,Silver
+C0481,Robin Armstrong,Female,Lake Nicholas,High,Gold
+C0482,Ashley Black,Female,Port Kimberly,High,Platinum
+C0483,Charles Simmons,Male,Millerton,Medium,Bronze
+C0484,Carlos Lewis,Female,West Ericafurt,Low,Silver
+C0485,Kelly Foster,Female,Breannachester,Medium,Gold
+C0486,Melissa Gould PhD,Female,Colonberg,High,Bronze
+C0487,Kari Ellis,Male,Lake Jasonfort,Medium,Gold
+C0488,Christopher Hansen,Male,New Melissaville,Medium,Silver
+C0489,Kenneth Williams,Male,North Nathan,Medium,Platinum
+C0490,Elizabeth Tucker PhD,Female,Port Brittany,High,Platinum
+C0491,Steven Small,Female,East Lori,Low,Gold
+C0492,Bryan Bailey PhD,Female,Olsonport,High,Gold
+C0493,Stephanie Harrington,Female,Davenportberg,High,Platinum
+C0494,Kathy Murray,Female,Contrerasberg,Low,Silver
+C0495,Erika Marsh,Male,Hughesfurt,Medium,Platinum
+C0496,Angel Santiago,Female,Fitzgeraldland,High,Platinum
+C0497,Michelle Armstrong,Male,Annville,Low,Silver
+C0498,Angela Friedman,Female,New Aimeefort,High,Silver
+C0499,Alicia Barrett,Male,North Joshua,Low,Gold
+C0500,Ronald Combs,Male,Millerside,Low,Gold
+C0501,Jennifer Williams,Male,West Samuelchester,Medium,Platinum
+C0502,Joseph Reyes,Female,North Tinaside,Low,Platinum
+C0503,Charles Scott,Male,East Kristopherchester,High,Silver
+C0504,Amy Woodward,Male,North Jennifer,Low,Gold
+C0505,Brett Thomas,Female,Jonathanville,Low,Silver
+C0506,David Harper,Male,South William,Low,Platinum
+C0507,Tiffany Adams,Male,Stevenchester,High,Silver
+C0508,Allen Schultz,Male,West Angelashire,High,Gold
+C0509,Danielle Peters,Male,West Ashley,Medium,Silver
+C0510,Ryan Mason,Female,West Amber,Low,Platinum
+C0511,David Cisneros,Female,Williamsmouth,High,Silver
+C0512,Lisa Delgado,Female,North Brian,High,Platinum
+C0513,Denise King,Female,Kiddborough,High,Silver
+C0514,Katrina Williams,Male,West Christopherville,Medium,Silver
+C0515,Molly Lutz,Female,Clarkhaven,Low,Platinum
+C0516,Emily Fleming,Female,Cynthiamouth,Medium,Platinum
+C0517,Matthew Morris,Female,South Susan,High,Bronze
+C0518,Thomas Anderson,Female,New Thomastown,Medium,Bronze
+C0519,Jennifer Woodard,Male,Farmerside,High,Silver
+C0520,Shawn Curtis,Male,Port Lisamouth,Medium,Gold
+C0521,Heather Hess,Female,Paultown,High,Bronze
+C0522,Jacob Lee,Female,East Juliaview,Low,Silver
+C0523,Michelle Lee,Male,Lindseybury,Medium,Silver
+C0524,Johnny Cox,Male,Trevorborough,Low,Gold
+C0525,William Little,Female,Port Joshuahaven,Low,Gold
+C0526,Juan Keller MD,Female,North Brianna,High,Silver
+C0527,Bethany Mahoney,Female,New Jessica,Low,Gold
+C0528,Ryan Johnson,Female,Erinmouth,Medium,Platinum
+C0529,Jeffery Nunez,Male,Port Sheilachester,Medium,Platinum
+C0530,Jennifer Martinez,Male,Simpsonhaven,Low,Platinum
+C0531,Stacey Walker,Male,Samanthaside,Medium,Bronze
+C0532,Aaron Lee,Female,New Lindseybury,High,Bronze
+C0533,Jessica Jones,Female,East Frank,Low,Silver
+C0534,Mark Davis,Female,Reynoldstown,Low,Platinum
+C0535,Lori Cook,Female,Johnfort,Low,Platinum
+C0536,Glen Brown,Female,Aprilbury,Medium,Bronze
+C0537,Patricia Harvey,Female,Lake Seanville,Medium,Gold
+C0538,Antonio Johnson,Male,Pamelaland,High,Platinum
+C0539,Amy Lang,Female,West Cherylchester,Medium,Gold
+C0540,Michael Hansen,Female,Melissafurt,Low,Silver
+C0541,Paul Hall,Female,South Patrickchester,High,Platinum
+C0542,Lisa Morgan,Male,South Zacharyshire,Low,Bronze
+C0543,Brian Larson,Female,New Kristineborough,High,Gold
+C0544,Beth Hicks,Male,Robertmouth,High,Platinum
+C0545,Chad Williams,Female,West Breanna,Low,Platinum
+C0546,Marissa Howard,Female,East Terrance,Low,Bronze
+C0547,Donna Cordova,Female,North John,Medium,Gold
+C0548,Kristin Brown,Male,Jamesborough,High,Gold
+C0549,Christina Jones,Female,Lake Thomas,Medium,Gold
+C0550,Julie Schwartz,Female,Christinachester,Low,Gold
+C0551,Brian Walter,Male,South Jeffreytown,Medium,Gold
+C0552,Melissa Owens,Female,East Timothy,Low,Platinum
+C0553,Robin Aguirre,Female,Harrisburgh,Medium,Bronze
+C0554,Adriana Smith,Male,Anthonyville,Medium,Bronze
+C0555,Jeremiah Welch,Female,Bradleytown,Low,Silver
+C0556,Duane Robinson,Male,Jennifermouth,High,Bronze
+C0557,Danielle Gonzalez,Male,Port Jose,High,Silver
+C0558,Ronald Taylor,Female,West Sharonport,Medium,Gold
+C0559,Jacob Watson,Female,New Tiffany,Medium,Silver
+C0560,Dr. Sherry Jones MD,Female,Port Jake,Low,Bronze
+C0561,Melissa Stewart,Female,Rowlandbury,Medium,Bronze
+C0562,Pamela Matthews,Male,Kristinemouth,High,Bronze
+C0563,Mark Ramirez,Female,Port William,High,Bronze
+C0564,Katherine Acosta,Female,Gibbsland,High,Gold
+C0565,James Khan,Female,Victormouth,Medium,Bronze
+C0566,Micheal Fox,Male,Baldwinfort,High,Gold
+C0567,Kevin Little,Male,East Jeffreyborough,Medium,Bronze
+C0568,David Robinson,Male,Onealshire,High,Gold
+C0569,Ryan Scott,Female,East Karenport,High,Silver
+C0570,Gregory Silva,Male,Huntmouth,Medium,Platinum
+C0571,John Ortiz,Male,Stewartfurt,Medium,Gold
+C0572,Jeremy Baker,Male,West Rachelport,Medium,Bronze
+C0573,Kayla Schneider,Female,Saraville,Low,Gold
+C0574,Isaac Payne,Female,Jamesmouth,Low,Platinum
+C0575,Patrick Mack,Male,Jamesberg,Low,Platinum
+C0576,Dr. Nancy Gaines MD,Male,Juanstad,Medium,Gold
+C0577,Jennifer Sullivan,Female,South Destinyberg,High,Gold
+C0578,Crystal Cummings,Male,South Jesus,Low,Silver
+C0579,Kristen Harrison,Male,Petersonland,High,Gold
+C0580,Cole Carrillo,Male,Clarkmouth,Low,Gold
+C0581,Amanda Taylor,Female,West Sherry,High,Platinum
+C0582,Robert Flowers,Female,Jeremiahchester,High,Platinum
+C0583,Jennifer Osborne,Female,Marktown,High,Bronze
+C0584,Amanda Taylor,Female,Ashleyshire,Medium,Gold
+C0585,Veronica Harris,Female,Brownfurt,Medium,Silver
+C0586,Brian Hudson,Female,Fowlerport,High,Platinum
+C0587,Brian Tran,Male,Port Hannahfort,High,Silver
+C0588,Cristian Pruitt,Female,Campbellbury,Medium,Platinum
+C0589,Joseph Gibson,Male,Aprilburgh,High,Bronze
+C0590,Theodore Myers,Female,East Amandafort,High,Gold
+C0591,Jasmine Berger,Male,East Monica,Low,Gold
+C0592,Robert Ortega,Female,New Barbara,Medium,Gold
+C0593,Dale Moran,Female,Hilltown,High,Platinum
+C0594,Jill Summers DDS,Male,New Mark,Low,Silver
+C0595,Katherine Ford,Female,Lake Christophermouth,High,Platinum
+C0596,Ryan Sparks,Female,Austinburgh,Low,Gold
+C0597,Christopher Williamson,Female,Ellisburgh,Low,Platinum
+C0598,Anna Hale,Male,East Nicoleburgh,Medium,Bronze
+C0599,Mark Carter,Male,Lake Jessicaborough,Medium,Silver
+C0600,Jennifer Gill,Male,West Charlesville,Low,Gold
