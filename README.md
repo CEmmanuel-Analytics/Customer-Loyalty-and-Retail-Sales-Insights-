@@ -65,11 +65,11 @@ For Creating an interactive Dashboard. The Dataset consist of three related tabl
   - **Payment Method Breakdown** 
   - **Date Slicer|Year & Quaters**
 
-  ![Visual Screen Shot](<Dashboard .png>)## Dahboard ScreenShot 
+  C:\Users\Hp user\Desktop\Customer loyalty and retail saleS Insights\Dashboard .png
 
 
 ## Small Play Around Video 
-<video controls src="Customer Loyalty and Retail Sales Dashboard .mp4" title="Title"></video>
+C:\Users\Hp user\Desktop\Customer loyalty and retail saleS Insights\Customer Loyalty and Retail Sales Dashboard .mp4
 
 ## Key Learnigs 
  - Strong Hands on Practice with **SQL joins, grouping , aggregations**
