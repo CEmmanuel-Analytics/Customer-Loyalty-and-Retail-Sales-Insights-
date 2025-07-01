@@ -65,6 +65,11 @@ For Creating an interactive Dashboard. The Dataset consist of three related tabl
   - **Payment Method Breakdown** 
   - **Date Slicer|Year & Quaters**
 
+## 🖼️ Dashboard Preview
+  ![Visual Screen Shot](<Dashboard .png>)## Dahboard ScreenShot 
+
+
+
 ## Key Learnigs 
  - Strong Hands on Practice with **SQL joins, grouping , aggregations**
  - Data Story Telling through **PowerBI Visualization** 
